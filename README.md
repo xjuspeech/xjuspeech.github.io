@@ -1,2 +1,2 @@
-## 新疆大学智能语音实验室
+## 新疆大学黄浩语音研究组
 [xjuspeech.github.io](https://xjuspeech.github.io)
